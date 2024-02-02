@@ -34,7 +34,7 @@ This phenomenon occurs when massive cosmic objects distort space, causing light 
 
 Mysterious Disappearances:
 
-The video reveals that over 771 trillion solar systems have mysteriously vanished, challenging established cosmological principles and theories.
+The video reveals that over <h1>771 trillion solar systems</h1> have mysteriously vanished, challenging established cosmological principles and theories.
 
 Vasco Project:
 
@@ -42,7 +42,7 @@ This project involves scanning astronomical archives to find stars that disappea
 
 Hubble Constant:
 
-This constant measures the universe's expansion rate. Recent findings challenge our understanding and suggest the universe may be expanding faster than previously thought.
+This constant measures the universe's expansion rate. Recent findings challenge our understanding and suggest the universe may be expanding <h1>faster</h1> than previously thought.
 
 Alien Theories:
 
