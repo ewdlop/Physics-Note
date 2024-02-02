@@ -34,7 +34,7 @@ This phenomenon occurs when massive cosmic objects distort space, causing light 
 
 Mysterious Disappearances:
 
-The video reveals that over **771 trillion*** solar systems</bold> have mysteriously vanished, challenging established cosmological principles and theories.
+The video reveals that over **771 trillion** solar systems</bold> have mysteriously vanished, challenging established cosmological principles and theories.
 
 Vasco Project:
 
