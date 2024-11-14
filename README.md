@@ -19,3 +19,6 @@ https://arxiv.org/html/2404.16922v1
 there was a 100+ author papers somewhere...
 
 # Neutrino (bad wiring joke)
+
+# Eightfold_way_
+https://en.wikipedia.org/wiki/Eightfold_way_(physics)#:~:text=In%20physics%2C%20the%20eightfold%20way,proposed%20the%20idea%20in%201961.
