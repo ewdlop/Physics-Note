@@ -17,3 +17,5 @@ https://www.youtube.com/@SolarSpheres/featured
 https://arxiv.org/html/2404.16922v1
 
 there was a 100+ author papers somewhere...
+
+# Neutrino (bad wiring joke)
