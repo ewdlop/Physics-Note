@@ -1,3 +1,5 @@
+# Eric Weinstein的Geometric Unity
+
 Eric Weinstein's Geometric Unity theory involves advanced mathematical concepts, primarily drawn from areas like differential geometry, topology, and theoretical physics. While comprehensive details of the theory are not extensively published in peer-reviewed scientific literature, based on Weinstein's presentations and discussions, we can identify several key mathematical areas that are likely integral to his framework:
 
 Differential Geometry: This is a field of mathematics that uses the techniques of calculus and algebra to study the geometry of curves and surfaces. It's fundamental in the study of spacetime in general relativity, and Weinstein’s theory likely extends these concepts.
